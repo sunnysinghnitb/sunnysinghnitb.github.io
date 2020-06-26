@@ -1,0 +1,15 @@
+# Site settings
+title: Hi! I'm Sunny
+description: Sunny Singh' professional portfolio site
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Sunny Singh
+user_title: 
+user_job_title: Machine learning Engineer
+email: sunnysinghnitb@gmail.com
+twitter_username: sunnysinghnitb
+github_username:  sunnysinghnitb
+
+exclude: ['package.json', 'src' , 'node_modules']
